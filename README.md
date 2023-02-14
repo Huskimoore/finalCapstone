@@ -7,10 +7,10 @@ Capstone 3 - a programme for a company to keep a track of tasks that have been c
 The Task Manager Project is a program written in the Python language.
 
 ### Contents:
-1- Functionality of the programme - how it works and what it does. 
-2 - Installation - how to user the programme on your computer
-3 - Usage - once installed how to use the programme
-4 - Contributors - who authored this programme
+*1- Functionality of the programme - how it works and what it does. 
+*2 - Installation - how to user the programme on your computer
+*3 - Usage - once installed how to use the programme
+*4 - Contributors - who authored this programme
 
 
 ### Functionality
